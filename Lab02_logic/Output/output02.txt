@@ -2,8 +2,8 @@
 -C
 -B OR C
 2
-A OR -B
 -A OR C
+A OR -B
 1
 A OR -C
 0
