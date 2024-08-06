@@ -2,7 +2,7 @@ import os
 import time
 import itertools
 
-INPUT_PATH = 'c:/Users/nguye/OneDrive/Desktop/Lab02_logic/PredictModel/Lab02_logic/PS4'
+INPUT_PATH = 'c:/Users/nguye/OneDrive/Desktop/Lab02_logic/PredictModel/Lab02_logic/Input'
 OUTPUT_PATH = 'C:/Users/nguye/OneDrive/Desktop/Lab02_logic/PredictModel/Lab02_logic/Output'
 
 class KnowldegeBase:
